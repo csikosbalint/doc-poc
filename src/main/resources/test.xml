@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cliToolSDD title="Security PKI Device Enrollment CLI Tool">
+    <extraNote>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</extraNote>
+    <introduction>
+        <element type="com.company.document.element.Paragraph">
+            <text>Description</text>
+        </element>
+        <section title="Purpose">
+            <element type="com.company.document.element.Paragraph">
+                <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu finibus ipsum. Maecenas quis venenatis ante. Vestibulum blandit, dui sed viverra vestibulum, ante felis
+                    ultricies justo, sed ultricies sapien metus a tellus. Nam at quam facilisis, placerat tortor sit amet, pharetra nulla. Pellentesque tristique odio non diam gravida, quis tempus.
+                </text>
+            </element>
+        </section>
+        <section title="Scope">
+            <element type="com.company.document.element.Paragraph">
+                <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu finibus ipsum. Maecenas quis venenatis ante. Vestibulum blandit, dui sed viverra vestibulum, ante felis
+                    ultricies justo, sed ultricies sapien metus a tellus. Nam at quam facilisis, placerat tortor sit amet, pharetra nulla. Pellentesque tristique odio non diam gravida, quis tempus.
+                </text>
+            </element>
+        </section>
+    </introduction>
+    <optionalNote>No special note on the document</optionalNote>
+    <modules>
+        <section title="CLI Tool Common">
+            <element type="com.company.document.element.Paragraph">
+                <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porttitor volutpat orci. Suspendisse vel dignissim augue. Ut blandit in lorem vitae semper. Nam sem felis, maximus
+                    quis tincidunt viverra, condimentum non elit. Morbi elementum tortor in elit ultricies luctus. Phasellus et consectetur lectus, sed accumsan turpis. Curabitur tempus hendrerit
+                    lacinia. Etiam gravida felis nec arcu semper gravida. Phasellus luctus libero nec nunc porttitor blandit nec ac sem. Fusce aliquam est sed neque semper placerat. Ut aliquam
+                    tincidunt luctus. Nunc eleifend nulla quis auctor molestie. Proin porttitor posuere mollis. Ut non dictum mauris. Cum sociis natoque penatibus et magnis dis parturient montes,
+                    nascetur ridiculus mus.
+                </text>
+            </element>
+        </section>
+        <section title="SCEP Enrollment">
+            <element type="com.company.document.element.Paragraph">
+                <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porttitor volutpat orci. Suspendisse vel dignissim augue. Ut blandit in lorem vitae semper. Nam sem felis, maximus
+                    quis tincidunt viverra, condimentum non elit. Morbi elementum tortor in elit ultricies luctus. Phasellus et consectetur lectus, sed accumsan turpis. Curabitur tempus hendrerit
+                    lacinia. Etiam gravida felis nec arcu semper gravida. Phasellus luctus libero nec nunc porttitor blandit nec ac sem. Fusce aliquam est sed neque semper placerat. Ut aliquam
+                    tincidunt luctus. Nunc eleifend nulla quis auctor molestie. Proin porttitor posuere mollis. Ut non dictum mauris. Cum sociis natoque penatibus et magnis dis parturient montes,
+                    nascetur ridiculus mus.
+                </text>
+            </element>
+            <section title="SOUP: com.google.code.jscpe:jscep">
+                <element type="com.company.document.element.Paragraph">
+                    <text>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porttitor volutpat orci. Suspendisse vel dignissim augue. Ut blandit in lorem vitae semper. Nam sem felis,
+                        maximus quis tincidunt viverra, condimentum non elit. Morbi elementum tortor in elit ultricies luctus. Phasellus et consectetur lectus, sed accumsan turpis. Curabitur tempus
+                        hendrerit lacinia. Etiam gravida felis nec arcu semper gravida. Phasellus luctus libero nec nunc porttitor blandit nec ac sem. Fusce aliquam est sed neque semper placerat. Ut
+                        aliquam tincidunt luctus. Nunc eleifend nulla quis auctor molestie. Proin porttitor posuere mollis. Ut non dictum mauris. Cum sociis natoque penatibus et magnis dis parturient
+                        montes, nascetur ridiculus mus.
+                    </text>
+                </element>
+            </section>
+            <section title="SOUP: com.google.whatever..."/>
+        </section>
+    </modules>
+    <sso>212417040</sso>
+</cliToolSDD>
+
