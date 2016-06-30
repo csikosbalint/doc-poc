@@ -19,6 +19,7 @@ import javax.xml.transform.dom.DOMSource;
 import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 
+import org.apache.poi.xwpf.usermodel.XWPFDocument;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
 
@@ -56,6 +57,8 @@ public class Documentation {
         DOMSource source = new DOMSource(document);
         StreamResult result = new StreamResult(System.out);
         //        transformer.transform(source, result);
+
+        XWPFDocument xwpfDocument = new XWPFDocument();
 
     }
 }
