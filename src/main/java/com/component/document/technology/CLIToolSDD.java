@@ -82,7 +82,7 @@ public class CLIToolSDD extends SoftwareDetailesDesign {
     }
 
     protected int authorSSO() {
-        return 212417040;
+        return 123456789;
     }
 
     @XmlElement
